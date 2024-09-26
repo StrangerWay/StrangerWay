@@ -36,7 +36,7 @@ I'm continuously learning and keeping up-to-date with modern web technologies an
 ---
 
 ## 🤝 Let's Connect!
-- **Portfolio**: StrangerWay(#)
+- **Portfolio**: [Portfolio](https://StrangerWay.cc)
 
 Feel free to check out my repositories and collaborate with me on new projects!
 
